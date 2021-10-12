@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Mz Píldora',
+      title: 'Mz Píldora Introducción a Flutter',
       home: HeadphonesScreen(),
       initialRoute: 'home',
       routes: {
